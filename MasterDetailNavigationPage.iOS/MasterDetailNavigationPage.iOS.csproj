@@ -157,4 +157,9 @@
       <Name>MasterDetailNavigationPage</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\schedule.png" />
+    <BundleResource Include="Resources\settings.png" />
+    <BundleResource Include="Resources\today.png" />
+  </ItemGroup>
 </Project>
